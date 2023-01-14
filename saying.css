@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+}
+
+div.container h1 {
+    text-align:center;
+    padding-top: 22%;
+}
+
+div.container h2 {
+    text-align:center;
+    padding-top: 19%;
+}
